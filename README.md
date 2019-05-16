@@ -14,4 +14,4 @@ You can build the project and run the tests by running mvn clean package
 
 Once successfully built, you can run the service by one of these two methods:
 
-    java -jar target/spring-boot-rest-example-0.5.0.war
+    java -jar target/flag.jar
